@@ -1,0 +1,2 @@
+# premium-parquet-001-parquet-herringbone-layout-cal
+Herringbone parquet layouts look stunning but calculating wood piece quantities, angles, and cuts feels impossible without professional software. Stop guessing measurements and wasting materials—the Parquet Herringbone Layout Calculator eliminates the guesswork.  This Notion template automates the entire herringbone layout design process, letting y
